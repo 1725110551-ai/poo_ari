@@ -21,16 +21,16 @@ class Telefono:
         print(f"Voltaje:{self.voltaje}")
         print(f"Modelo:{self.modelo}")
 
-        def llamar(self):
-            print("llamar al telefono")
-        def tomar_fotos(self):
-            print("Tomar fotos con el telefono")
-        def enviar_mensajes(self):
-            print("Enviar mensajes con el telefono")
-        def escribir(self):
-            print("Escribir con el telefono")
-        def reproducir_musica(self):
-            print("Reproducir musica con el telefono")
+    def llamar(self):
+        print("llamar al telefono")
+    def tomar_fotos(self):
+        print("Tomar fotos con el telefono")
+    def enviar_mensajes(self):
+        print("Enviar mensajes con el telefono")
+    def escribir(self):
+        print("Escribir con el telefono")
+    def reproducir_musica(self):
+        print("Reproducir musica con el telefono")
 
 iphone_14_pro = Telefono("negro mate","acero inoxisable,vidrio mate","chip A16, super retins XDR","6 gr","$7900","6 metros hasta 30 minutos","128 GB","20 V","iPhone 14 Pro")
 

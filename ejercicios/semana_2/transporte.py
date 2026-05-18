@@ -23,16 +23,16 @@ class Transporte:
         print(f"Capacidad:{self.capacidad}")
         print(f"Peso:{self.peso}")
 
-        def manejarlo(self):
-            print("manejar combi")
-        def chocarlo(self):
-            print("Chocar combi")
-        def encender(self):
-            print("Encender combi")
-        def apagar(self):
-            print("Apagar combi")
-        def avanzar(self):
-            print("Avanzar combi")
+    def manejarlo(self):
+        print("manejar combi")
+    def chocarlo(self):
+        print("Chocar combi")
+    def encender(self):
+        print("Encender combi")
+    def apagar(self):
+        print("Apagar combi")
+    def avanzar(self):
+        print("Avanzar combi")
 
 combi = Transporte("gris claro","GMC","C200","L:5.91m, A:2.28m, An:1.95m","120 km/h","diesel","van","3 bolsas de aire, frenos ABS","11 pasajeros","2.5 toneladas")
 

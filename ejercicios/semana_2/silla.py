@@ -22,10 +22,10 @@ class Silla:
     def pararse(self):
         print("Pararse sobre la silla")
 
-Silla = Silla ("Metal,aluminio,madera,tela","Al:40cm,An:35cm","Negro","18kg")
+Silla_de_salon = Silla ("Metal,aluminio,madera,tela","Al:40cm,An:35cm","Negro","18kg")
 
-Silla.cargarla()
-Silla.sentarse()
-Silla.aventar()
-Silla.voltearla()
-Silla.pararse()
+Silla_de_salon.cargarla()
+Silla_de_salon.sentarse()
+Silla_de_salon.aventar()
+Silla_de_salon.voltearla()
+Silla_de_salon.pararse()
