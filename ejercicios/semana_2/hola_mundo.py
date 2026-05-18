@@ -8,4 +8,3 @@ class NombreClase:
 
 nombre_objeto = NombreClase()
 nombre_objeto.metodoUno()
-
