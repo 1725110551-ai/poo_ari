@@ -12,5 +12,8 @@ class Calculadora:
         print(f"Resultado Suma: {resultado}")   
 
 casio_9850 = Calculadora()
+casio_9850.sumar(10,15.5)
+casio_9850.sumaEnteros(10,15.5)
 
 casio_9850.sumar(10,15.5)
+casio_9850.sumaEnteros(10,15.5)
