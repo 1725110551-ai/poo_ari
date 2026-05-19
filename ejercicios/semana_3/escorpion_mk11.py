@@ -34,7 +34,7 @@ class Personaje_videojuego:
     def avanzar(self):
         print("Avanzar con escorpion")
 
-escorpion = Personaje_videojuego("70 kg", "Estadounidense", "Masculino", 30, "1993-05-15", "Katanas", "Control de tierra", "Humano", "Amarillo", "Protector de la Tierra")
+escorpion = Personaje_videojuego("70 kg", "Estadounidense", "Masculino", "30", "1993-05-15", "Katanas", "Control de tierra", "Humano", "Amarillo", "Protector de la Tierra")
 
 escorpion.seleccionarlo()
 escorpion.luchar()
