@@ -23,21 +23,21 @@ class Personaje_videojuego:
         print(f"color de skin:{self.color_de_skin}")
         print(f"bando:{self.bando}")
 
-    def seleccionarlo(self):
+    def seleccionar(self):
         print("Seleccionar a escorpion")
     def luchar(self):
         print("Luchar contra escorpion")
     def armamento(self):
         print("Usar armamento de escorpion")
-    def golpearl(self):
+    def golpear(self):
         print("Golpear con escorpion")
     def avanzar(self):
         print("Avanzar con escorpion")
 
-escorpion = Personaje_videojuego("70 kg", "Estadounidense", "Masculino", "30", "1993-05-15", "Katanas", "Control de tierra", "Humano", "Amarillo", "Protector de la Tierra")
+escorpion = Personaje_videojuego("70 kg", "Estadounidense", "Masculino", "30", "1993-05-15", "Katanas", "Control del fuego", "Humano", "Amarillo", "Protector de la Tierra")
 
-escorpion.seleccionarlo()
+escorpion.seleccionar()
 escorpion.luchar()
 escorpion.armamento()
-escorpion.golpearl()
+escorpion.golpear()
 escorpion.avanzar()
