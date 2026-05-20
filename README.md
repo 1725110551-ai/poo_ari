@@ -1,7 +1,7 @@
 # repositorio de programación orientada a objetos con python
 
 repositorio con ejercicios de programacion orientada a objetos
-Markdown
+Rfc es documenttacón historica y tecnica **en tecnologias**
 ## 1. Crear .gitignore
 
 Crear el archivo .gitignore para configurar los archivos y carpetas que no deseamos que se guarden en el repositorio
