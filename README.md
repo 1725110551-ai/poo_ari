@@ -1,7 +1,7 @@
 # repositorio de programación orientada a objetos con python
 
 repositorio con ejercicios de programacion orientada a objetos
-Rfc es documenttacón historica y tecnica **en tecnologias**
+
 ## 1. Crear .gitignore
 
 Crear el archivo .gitignore para configurar los archivos y carpetas que no deseamos que se guarden en el repositorio
@@ -42,3 +42,6 @@ git push -u origin main
 ## 5. agregar documentación a los métodos
 
 Agregar un **Docstring** a los metodos generados.
+
+````python
+Definir cada función
