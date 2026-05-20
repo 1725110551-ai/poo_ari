@@ -25,10 +25,10 @@ class Perro:
 
     def entrenar(self):
         print("Entrenar a rocky")
-    def pelota(self):
-        print("lanzarle la pelota a rocky")
-    def baño(self):
-        print("llevar a rocky al baño")
+    def acariciar(self):
+        print("acariciar a rocky")
+    def bañar(self):
+        print("bañar a rocky")
     def veterinario(self):
         print("llevar a rocky al veterinario")
     def jugar(self):
@@ -37,7 +37,7 @@ class Perro:
 Rocky = Perro("45 kg", "Estadounidense", "Macho", "26 años", "2023-11-19", "Rocky", "Pitbull americano", "53 cm", "37.8 °C", "cafe con blanco")
 
 Rocky.entrenar()
-Rocky.pelota()
-Rocky.baño()
+Rocky.acariciar()
+Rocky.bañar()
 Rocky.veterinario()
 Rocky.jugar()
