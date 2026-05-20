@@ -39,3 +39,6 @@ Sincroniza los cambios realizados en el repositorio
 ````shell
 git push -u origin main
 ````
+## 5. agregar documentación a los métodos
+
+Agregar un **Docstring** a los metodos generados.
